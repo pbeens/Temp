@@ -1,3 +1,14 @@
+'''
+This program isn't working. It sends the request but then hangs.
+
+Can anyone help me with it? 
+
+This code was adapted from https://codecurrents.blog/article/2023-07-16. 
+
+https://mstdn.ca/@pbeens
+https://twitter.com/pbeens 
+'''
+
 import os
 from openai import OpenAI
 
