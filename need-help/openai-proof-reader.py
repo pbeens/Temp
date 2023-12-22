@@ -13,9 +13,8 @@ https://twitter.com/pbeens
 
 '''
 UPDATE 2023-12-19
-This latest update works with a significantly shortened input file. More testing tomorrow.
+This latest update works with a significantly shortened input file. For now I'm assuming the program works okay, within filesize limitations.
 '''
-
 
 import os
 from openai import OpenAI
